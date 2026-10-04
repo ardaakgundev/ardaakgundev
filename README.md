@@ -1,4 +1,4 @@
-![MasterHead](https://i.postimg.cc/8z9nSmmL/ardagithubbanner.png)
+![MasterHead](ardagithubbanner.png)
 
 <h1 align="center">Hi👋, I'm Arda Akgün</h1>
 <h3 align="center">I'm a 1st year Computer Programming student at Kayseri University</h3>
